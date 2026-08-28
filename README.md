@@ -80,16 +80,6 @@ Minha jornada na tecnologia está apenas começando, mas cada projeto representa
   <img src="https://img.shields.io/badge/Clean_Code-7B61FF?style=for-the-badge&logo=codefactor&logoColor=white" alt="Clean Code" />
 </div>
 
-## Minha evolução no GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Th-Garcia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=00C6FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub de Theo Garcia" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Garcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6" alt="Linguagens mais usadas por Theo Garcia" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Th-Garcia&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=00C6FF&currStreakLabel=8B5CF6" alt="Sequência de contribuições no GitHub" />
-</div>
 
 ## Próximos passos
 
